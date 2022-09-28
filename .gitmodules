@@ -2,3 +2,8 @@
 	path = OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 14.0
+
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = git@github.com:OCA/l10n-italy.git
+	branch = 14.0
